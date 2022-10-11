@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomargvr&label=Profile%20views&color=000000&style=flat" alt="jomargvr" /> </p>
 
-- 🔭 I’m currently working on **my personal website**
+- 🔭 I’m currently working on **my personal website and increasing my network**
 
 - 🌱 I’m currently learning **Algorithms, Agile Dev, Docker, Web Development and ROS**
 
