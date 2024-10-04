@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Coming Soon!!!](Coming Soon!!!)
 
-- 💬 Ask me about **My internship at New Technologist**
+- 💬 Ask me about **My internship at Dell Technologies**
 
 - 📫 How to reach me **velezgjomar@gmail.com**
 
