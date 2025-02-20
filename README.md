@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **my personal website and increasing my network**
 
-- 🌱 I’m currently learning **Algorithms, Agile Dev, Docker, Web Development and ROS**
+- 🌱 I’m currently learning **Algorithms, DataBases, Operating Systems, Web Development and AI**
 
 - 🤝 I’m looking for help with **carrier advice**
 
 - 👨‍💻 All of my projects are available at [Coming Soon!!!!](Coming Soon!!!!)
-
-- 📝 I regularly write articles on [Coming Soon!!!](Coming Soon!!!)
 
 - 💬 Ask me about **My internship at Dell Technologies**
 
@@ -22,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jomar-g-velez-rivera-5928b6202/](https://www.linkedin.com/in/jomar-g-velez-rivera-5928b6202/)
 
-- ⚡ Fun fact **I love anime, sleep, food and spending time with my family and friends.**
+- ⚡ Fun fact **I love running, sleep, food and spending time with my family and friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
